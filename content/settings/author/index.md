@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Emma und Aurel"
-image = "/img/default-author.jpg"
+image = "/media/img_0748.jpeg"
 url = "/about/"
 +++
